@@ -8,7 +8,7 @@ I'm a self-taught passionate QA Engineer from Indonesia
 **About me**
 
 - 💼 &nbsp;&nbsp; QA Engineer Lead at [Aruna](https:aruna.id/)
-- 🎒 &nbsp;&nbsp; Currently learning on TypeScript <code><img height="17" alt="flutter" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+- 🎒 &nbsp;&nbsp; Currently learning on Nestjs <code><img height="16.5" alt="nestjs" src="https://camo.githubusercontent.com/2093e1eb4bc9b4f31f6b65facf62aa81bfb0630639ed2607cc1006f2656f1cf7/68747470733a2f2f6e6573746a732e636f6d2f696d672f6c6f676f2d736d616c6c2e737667"></code>
 - 💬 &nbsp;&nbsp; Ask me about anything [here](https://github.com/rizkypur/rizkypur/issues)
 - 👯 &nbsp;&nbsp; My Technology Stacks are &nbsp;&nbsp; <code><img height="17" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="17" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
