@@ -7,14 +7,17 @@ I'm a self-taught passionate QA Engineer from Indonesia
 
 **About me**
 
-- 💼 &nbsp;&nbsp; QA Engineer Lead at [Aruna](https:aruna.id/)
-- 🎒 &nbsp;&nbsp; Currently learning on Nestjs <code><img height="16.5" alt="nestjs" src="https://camo.githubusercontent.com/2093e1eb4bc9b4f31f6b65facf62aa81bfb0630639ed2607cc1006f2656f1cf7/68747470733a2f2f6e6573746a732e636f6d2f696d672f6c6f676f2d736d616c6c2e737667"></code>
+- 💼 &nbsp;&nbsp; Former QA Engineer Lead at [Aruna](https:aruna.id/)
+- 🎒 &nbsp;&nbsp; Currently learning on Playwright Automation Framework <code><img height="25" alt="playwright" src="https://playwright.dev/img/playwright-logo.svg"></code>
 - 💬 &nbsp;&nbsp; Ask me about anything [here](https://github.com/rizkypur/rizkypur/issues)
 - 👯 &nbsp;&nbsp; My Technology Stacks are &nbsp;&nbsp; <code><img height="17" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="17" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="17" alt="mysql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="17" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="17" alt="css" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
+<code><img height="17" alt="selenium" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/1200px-Selenium_Logo.png"></code>
+<code><img height="17" alt="appium" src="https://softwarereviews.s3.amazonaws.com/production/favicons/offerings/7365/original/Appium-removebg-preview.png"></code>
+<code><img height="17" alt="katalon" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Katalon-logo-png.png"></code>
+<code><img height="18" alt="mysql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
 
 <br />
 
